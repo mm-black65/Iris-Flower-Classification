@@ -64,29 +64,29 @@ The dataset used is the built-in Iris dataset from Scikit-learn, which contains:
 ## 🖥️ Run the Project
 
 ### 1. Clone Repository
-```bash
+
 ###2. Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-3. Run Notebook
-jupyter notebook
+###3. Run Notebook
+- jupyter notebook
 
-4. Run Web App
-streamlit run app.py
+###4. Run Web App
+- streamlit run app.py
 
-📸 App Preview
+#📸 App Preview
 
-The Streamlit app allows users to input flower measurements and get real-time predictions.
+-The Streamlit app allows users to input flower measurements and get real-time predictions.
 
-📚 What I Learned
-Importance of data preprocessing and scaling
-Model comparison and evaluation techniques
-Hyperparameter tuning
-Building simple ML web applications
-🔗 Future Improvements
-Deploy app online
-Add more datasets
-Improve UI design
-Add more advanced models
-git clone https://github.com/your-username/iris-classifier.git
-cd iris-classifier
+##📚 What I Learned
+- Importance of data preprocessing and scaling
+- Model comparison and evaluation techniques
+- Hyperparameter tuning
+- Building simple ML web applications
+
+##🔗 Future Improvements
+- Deploy app online
+- Add more datasets
+- Improve UI design
+- Add more advanced models
+
